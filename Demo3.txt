@@ -1,0 +1,2 @@
+tyring to run git commands
+and i am writing the commands to prcatice the git
